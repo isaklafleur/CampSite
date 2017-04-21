@@ -1,3 +1,5 @@
+CampSite - a app created with NodeJs, ExpressJS and MongoDB.
+
 RESTFUL ROUTES
 
 name        url         verb        description
